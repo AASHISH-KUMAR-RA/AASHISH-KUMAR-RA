@@ -1,16 +1,41 @@
-## Hi there 👋
+## About me
+```py
+knows = ["Python", "Java", "Dart", "C", "Kivy"]
+interests = [
+    "App development",
+    "Cybersecurity",
+    "Machine Learning & AI"
+]
 
-<!--
-**AASHISH-KUMAR-RA/AASHISH-KUMAR-RA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# TODO: Machine Learning & Cybersecurity
 
-Here are some ideas to get you started:
+while True:
+    print("Keep Learning!")
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies 🧑🏻‍💻
+[![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,dart,flutter,java,c,aws,gcp,firebase,githubactions,git,md,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,linux,bootstrap)](https://skillicons.dev)
+<img src="./img/Kivy_logo.png" alt="Kivy" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="Jetbrains" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="Fedora" width="50" height="50"/>   
+
+## Statistics 📊
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AM-ash-OR-AM-I&show_icons=true&theme=dracula&hide_border=true&border_radius=10) | ![Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=am-ash-or-am-i&theme=dracula&hide_border=true&border_radius=10) |
+-- | -- 
+
+<div>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=am-ash-or-am-i&radius=15&hide_border=true&theme=dracula" width="70%">
+    <img src="https://github-readme-stats-deployment.vercel.app/api/top-langs/?username=am-ash-or-am-i&show_icons=true&theme=dracula&hide_border=true&border_radius=10&hide=jupyter%20notebook,kvlang" width="26%"/>
+</div>
+
+## Hacktoberfest2022 badges 
+
+[![@ashu_coder's Holopin board](https://holopin.me/ashu_coder)](https://holopin.io/@ashu_coder)
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&height=130&text=Bye!&fontSize=30)
+
+
+## Visitors 👀
+![Visitor Count](https://profile-counter.glitch.me/AM-ash-OR-AM-I/count.svg)
