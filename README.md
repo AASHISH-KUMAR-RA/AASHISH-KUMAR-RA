@@ -16,7 +16,9 @@ A final-year Engineering Student specializing in Artificial Intelligence and Dat
   - 💬 Ask me about **DATA**
   - 📫 How to reach me: **aashishra2010@gmail.com**
 
+
 <br>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](404) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashish-kumar-ra-a154a727a/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](404) 
